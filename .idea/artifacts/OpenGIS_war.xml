@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OpenGIS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OpenGIS.war">
+      <element id="artifact" artifact-name="OpenGIS:war exploded" />
+    </root>
+  </artifact>
+</component>
